@@ -1,8 +1,8 @@
-/** Name: Renkai Ji
-* CS6360, Assignment 3
+* Author: Renkai Ji
+* CS6360
 * Section 002
-* Due Date: 11:59 pm, 12/08/13
-*/
+* 
+
 
 
 I. Purpose
